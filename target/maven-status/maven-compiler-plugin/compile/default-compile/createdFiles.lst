@@ -1,0 +1,4 @@
+dao\UserDAO.class
+model\CheckUserLogic.class
+model\User.class
+servlet\LoginServlet.class
